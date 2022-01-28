@@ -1,0 +1,4 @@
+baseURL = 'http://binderlenz.de/'
+languageCode = 'en-us'
+title = 'Binder Lenz - Kaffeerösterei'
+theme = "beautifulhugo"
