@@ -1,4 +1,4 @@
-baseURL = 'http://binderlenz.de/'
+baseURL = 'http://lucianmathes.github.io'
 languageCode = 'en-us'
 title = 'Binder Lenz - Kaffeerösterei'
 theme = "beautifulhugo"
