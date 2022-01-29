@@ -1,4 +1,4 @@
-baseURL = 'https://lucianmathes.github.io'
+baseURL = 'https://binderlenz.de'
 languageCode = 'en-us'
 title = 'Binder Lenz'
 theme = "beautifulhugo"
