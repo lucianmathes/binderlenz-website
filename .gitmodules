@@ -5,5 +5,5 @@
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo
 [submodule "themes/themes/hugo-hero-theme"]
-	path = themes/themes/hugo-hero-theme
+	path = themes/hugo-hero-theme
 	url = https://github.com/zerostaticthemes/hugo-hero-theme.git
