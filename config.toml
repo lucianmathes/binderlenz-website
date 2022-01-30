@@ -1,17 +1,10 @@
-baseURL = "https://www.example.com/"
-languageCode = "en-us"
-title = "Hugo Hero Theme"
-themesDir = "../.."
+baseURL = "https://binderlenz.de"
+languageCode = "de-de"
+title = "Binder Lenz"
+themesDir = "themes"
 theme = "hugo-hero-theme"
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    min = "0.92.0"
-    
 [params]
-  google_analytics_id=""
-
   [params.logo]
     mobile = "images/logo-mobile.svg"
     mobile_height = "36px"
