@@ -4,4 +4,4 @@ languageCode = 'de-de'
 theme = "ananke"
 
 [params]
-  site_logo = "images/binder_lenz.svg"
+  site_logo = "img/binder_lenz_inverted.svg"
