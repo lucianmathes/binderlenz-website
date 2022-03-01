@@ -1,4 +1,7 @@
-baseURL = 'https://binderlenz.de'
-languageCode = 'en-us'
 title = 'Binder Lenz'
-theme = "beautifulhugo"
+baseURL = 'https://binderlenz.de'
+languageCode = 'de-de'
+theme = "ananke"
+
+[params]
+  site_logo = "images/binder_lenz.svg"
