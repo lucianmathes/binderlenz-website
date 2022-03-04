@@ -1,6 +1,8 @@
 ---
-title: "Binder Lenz"
 featured_image: 'images/kuehlschiff.jpg'
-description: "Neukirchner Kaffeerösterei"
+featured_logo: 'images/binder_lenz_sketch_inverted.svg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+
+Griaß eich auf der Internetseite vom Binder Lenz.
+Bei uns gibt's frisch gerösteten Kaffee direkt aus der Region.
+Schaut's vorbei!

@@ -1,0 +1,11 @@
+title: Binder Lenz
+baseURL: https://binderlenz.de
+languageCode: de-de
+theme: ananke
+
+params:
+  site_logo: images/binder_lenz_inverted.svg
+
+  ananke_socials:
+  - name: instagram
+    url: https://www.instagram.com/binderlenz_kaffeeroesterei
