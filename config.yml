@@ -3,8 +3,14 @@ baseURL: https://binderlenz.de
 languageCode: de-de
 theme: ananke
 
+DefaultContentLanguage: "de"
+enableRobotsTXT: true
+
 params:
+  date_format: "2. Januar 2006"
   site_logo: images/binder_lenz_inverted.svg
+  featured_image: images/kuehlschiff.jpg
+  recent_posts_number: 3
 
   ananke_socials:
   - name: instagram
