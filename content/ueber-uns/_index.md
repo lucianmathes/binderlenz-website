@@ -1,8 +1,19 @@
 ---
+menu: main
 title: "Über Uns"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+description: "Binder Lenz Kaffeerösterei"
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Servus!
+
+Quae ipsa saepe eligendi. Totam molestiae illum minus fugit eos totam dolorem ab. Natus et quia nihil. Repudiandae architecto doloremque rerum adipisci molestias. Hic libero et corrupti inventore eum. Vel qui est dolore consequatur ut.
+Quam reiciendis necessitatibus eos temporibus dolores iusto delectus. Ut est veritatis quas facere. Explicabo sed et aut. Omnis blanditiis ab maiores accusamus corrupti saepe.
+
+{{< figure src="/images/huette_winter.jpg" title="Unsere kleine Rösthütte">}}
+
+Rerum et deleniti qui voluptates. Modi autem dolor maxime est eligendi est. Et tempora tempora est voluptas quia corporis cumque.
+Velit omnis et explicabo enim nostrum. Rerum quia consectetur optio laboriosam qui dolor. Aliquam officiis sit consequatur expedita sed architecto. Sint nesciunt sunt suscipit veritatis numquam fugit dolorem. Repellat ab magni blanditiis. Neque dicta ab sed eos et esse.
+
+{{< figure src="/images/kuehlschiff.jpg" title="Das Kühlschiff unseres Rösters">}}
+
+Nihil soluta magni et voluptate sequi recusandae eaque quia. Et voluptas autem numquam. Qui pariatur eligendi quam incidunt aspernatur perspiciatis occaecati. Commodi dolorem ut explicabo tempore autem sed. At qui quae at labore et nobis deserunt.
