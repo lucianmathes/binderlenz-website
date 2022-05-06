@@ -3,8 +3,13 @@
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.BaseURL }}" >
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href={{ ref . "kontakt" }} title=Kontakt>Kontakt</a>
-    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href={{ ref . "datenschutz" }} title=Datenschutz>Datenschutz</a>
+    {{ range .Site.Menus.footer }}
+    <li class="list f5 f4-ns fw4 dib pr3">
+      <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .URL }}" title="{{ i18n "pageTitle" . }}">
+        {{ .Name }}
+      </a>
+    </li>
+    {{ end }}
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
 </footer>
