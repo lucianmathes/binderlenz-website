@@ -24,4 +24,4 @@ Beim Bau seines Hofes um 1900 nahm er die Hilfe von italienischen Gastarbeitern 
 In den Pausen bekam er wort- und gestenreich den "Ottimo Espresso" beschrieben, den man in deren südlicher Heimat serviert bekommt.
 Trotz dem Wunsch nicht immer nur Filterkaffee zu trinken, sollte er es nie schaffen nach Italien zu reisen.
 Erst seine Söhne sollten - durch Italienreisen und die neu erfundene Mokkakanne - in den Genuss von Espresso kommen.
-Um so mehr Freude würde es ihm wohl bereiten, wenn er wüsste, dass sein Urenkel heute selbst Kaffeeröster ist und sowohl Filterkaffee als auch schwarzen Espresso mit italienisch anmutender Crema zubereiten kann.
+Um so mehr Freude würde es ihm wohl bereiten, wenn er wüsste, dass sein Urenkel heute selbst Kaffeeröster ist und sowohl Filterkaffee als auch schwarzen Espresso mit italienisch anmutender Crema anbieten kann.
