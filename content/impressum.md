@@ -3,7 +3,6 @@ title: Impressum
 featured_image: "images/kuehlschiff.jpg"
 omit_header_text: true
 type: page
-menu: footer
 ---
 
 Lucian Mathes
