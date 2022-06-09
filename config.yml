@@ -12,6 +12,37 @@ params:
   featured_image: images/kuehlschiff.jpg
   recent_posts_number: 3
 
+  mainSections:
+  - beitraege
+
   ananke_socials:
   - name: instagram
     url: https://www.instagram.com/binderlenz_kaffeeroesterei
+
+menu:
+  main:
+  - identifier: aktuelles
+    name: Aktuelles
+    url: /beitraege/
+    weight: 20
+  - identifier: kaffee
+    name: Kaffee
+    url: /kaffee/
+    weight: 10
+  - identifier: ueber-uns
+    name: Über Uns
+    url: /ueber-uns/
+    weight: 30
+  footer:
+  - identifier: dsgvo
+    name: Datenschutzerklärung
+    url: /datenschutz/
+    weight: 10
+  - identifier: impressum
+    name: Impressum
+    url: /impressum/
+    weight: 20
+  - identifier: kontakt
+    name: Kontakt
+    url: /kontakt/
+    weight: 30
