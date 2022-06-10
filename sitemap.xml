@@ -3,10 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://binderlenz.de/</loc>
-    <priority>0</priority>
+    <lastmod>2022-06-01T11:25:05+01:00</lastmod>
+  </url><url>
+    <loc>https://binderlenz.de/beitraege/binder_lenz_digital/</loc>
+    <lastmod>2022-06-01T11:25:05+01:00</lastmod>
+  </url><url>
+    <loc>https://binderlenz.de/beitraege/</loc>
+    <lastmod>2022-04-30T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://binderlenz.de/categories/</loc>
   </url><url>
+    <loc>https://binderlenz.de/datenschutz/</loc>
+  </url><url>
+    <loc>https://binderlenz.de/impressum/</loc>
+  </url><url>
+    <loc>https://binderlenz.de/kontakt/</loc>
+  </url><url>
     <loc>https://binderlenz.de/tags/</loc>
+  </url><url>
+    <loc>https://binderlenz.de/kaffee/</loc>
+  </url><url>
+    <loc>https://binderlenz.de/ueber-uns/</loc>
   </url>
 </urlset>

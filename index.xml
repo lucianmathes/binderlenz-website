@@ -5,6 +5,66 @@
     <link>https://binderlenz.de/</link>
     <description>Recent content on Binder Lenz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://binderlenz.de/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <lastBuildDate>Wed, 01 Jun 2022 11:25:05 +0100</lastBuildDate><atom:link href="https://binderlenz.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Binder Lenz im Internet</title>
+      <link>https://binderlenz.de/beitraege/binder_lenz_digital/</link>
+      <pubDate>Wed, 01 Jun 2022 11:25:05 +0100</pubDate>
+      
+      <guid>https://binderlenz.de/beitraege/binder_lenz_digital/</guid>
+      <description>Servus! Uns - den Binder Lenz - gibt&amp;rsquo;s ab sofort auch im Internet. Hier informieren wir Euch über alle wichtigen Neuerungen rund um unsere kleine Kaffeerösterei. Also schaut&amp;rsquo;s ab und zu vorbei!</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://binderlenz.de/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binderlenz.de/datenschutz/</guid>
+      <description>Personenbezogene Daten (nachfolgend zumeist nur „Daten“ genannt) werden von uns nur im Rahmen der Erforderlichkeit sowie zum Zwecke der Bereitstellung eines funktionsfähigen und nutzerfreundlichen Internetauftritts, inklusive seiner Inhalte und der dort angebotenen Leistungen, verarbeitet.  Gemäß Art. 4 Ziffer 1. der Verordnung (EU) 2016/679, also der Datenschutz-Grundverordnung (nachfolgend nur „DSGVO“ genannt), gilt als „Verarbeitung“ jeder mit oder ohne Hilfe automatisierter Verfahren ausgeführter Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten, wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://binderlenz.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binderlenz.de/impressum/</guid>
+      <description>Lucian Mathes
+Barbarastraße 24 83364 Neukirchen
+Telefon: +49 1575 3025445 E-Mail: info@binderlenz.de</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://binderlenz.de/kontakt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binderlenz.de/kontakt/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Dein Name Email Adresse Eine Email Adresse wird benötigt.  Nachricht   </description>
+    </item>
+    
+    <item>
+      <title>Unser Kaffeesortiment</title>
+      <link>https://binderlenz.de/kaffee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binderlenz.de/kaffee/</guid>
+      <description>Unsere Packungsgrößen: 1 kg, 500 g, 250 g   Filterkaffeebohnen sind schon bei der Röstung von Espressokaffee zu unterscheiden; sie befinden sich für kürzere Zeit und bei niedrigerer Temperatur in der Trommel und sind deshalb deutlich heller. Verwendet werden sie vor allem für Aufguss und Stempelkanne.
+ Filterkaffee   Espressobohnen sind aufgrund ihres fortgeschrittenen Röstgrads eindeutig schöner anzuschauen als Filterkaffee. Auch wenn es verschiedene Nuancen in der Färbung von Espressi gibt, orientieren sich doch alle am italienischen Vorbild.</description>
+    </item>
+    
+    <item>
+      <title>Über Uns</title>
+      <link>https://binderlenz.de/ueber-uns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binderlenz.de/ueber-uns/</guid>
+      <description>Servus! Wir - der Binder Lenz - sind eine kleine Kaffeerösterei im herrlichen Süden Bayerns. Ungefähr da, wo der Chiemsee aufhört und die Berge anfangen. Wir rösten Kaffee aus Leidenschaft und eben auch nicht ganz ohne Eigennutz; jeder von uns ist passionierter Kaffeetrinker.
+ Unsere kleine Rösthütte   Durch Zufall haben wir Anfang 2020 einen kleinen, gebrauchten Trommelröster in unserer Nähe gefunden und nach Hause gebracht. Nach anfänglichen Misserfolgen konnte man nach ein Paar Tagen den ersten Kaffee zumindest trinken.</description>
+    </item>
+    
   </channel>
 </rss>
