@@ -1,7 +1,7 @@
 ---
 date: 2022-08-18T11:25:05+01:00
 description: "Lust auf Kaffee? Kemmt's vorbei!"
-featured_image: "/images/plakat_tdot_2022.png"
+featured_image: "/images/plakat_tdot_2022.jpg"
 title: "Tag der offenen Rösterei"
 ---
 
@@ -11,4 +11,4 @@ Neben Kaffee und Kuchen werden wir unsere Röstmaschine anwerfen und für ein pa
 Also kemmt's vorbei und probiert's unsere Kaffees, ob Espresso, Cappucino oder Filter.
 Wir freuen uns auf Euch!
 
-{{< figure src="/images/plakat_tdot_2022.png">}}
+{{< figure src="/images/plakat_tdot_2022.jpg">}}
