@@ -4,7 +4,7 @@ description: "Von Filterkaffee und Espresso, Arabica und Robusta"
 featured_image: "/images/kuehlschiff.jpg"
 ---
 
-{{< figure src="/images/espresso.jpg" title="Unsere Packungsgrößen: 1 kg, 500 g, 250 g">}}
+{{< gallery-slider dir="/images/packungen"  width="700px" height="750px" auto-slide="5000" >}} 
 
 **Filterkaffeebohnen** sind schon bei der Röstung von Espressokaffee zu unterscheiden;
 sie befinden sich für kürzere Zeit und bei niedrigerer Temperatur in der Trommel und sind deshalb deutlich heller.
