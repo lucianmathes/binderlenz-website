@@ -2,7 +2,7 @@
 date: 2023-11-27T11:25:05+01:00
 description: "Schenke Freude am Genuss!"
 featured_image: "/images/weihnachtsgeschenk.jpg"
-title: "Weihachtliche Geschenkpakete"
+title: "Weihnachtliche Geschenkpakete"
 ---
 
 Dieses Jahr auf Weihnachten bieten wir Euch kleine Geschenkpakete mit unseren besten Kaffeesorten.
