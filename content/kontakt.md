@@ -2,11 +2,11 @@
 title: Kontakt
 featured_image: "images/kuehlschiff.jpg"
 omit_header_text: true
-description: We'd love to hear from you
 type: page
 ---
 
+Du hast Fragen zu unserem Kaffee?
+Du möchtest mal in unserer Rösthütte vorbei schauen und uns persönlich kennen lernen?
+Schreib uns einfach eine Nachricht und wir melden uns bei Dir!
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/mknlzogo"  >}}
