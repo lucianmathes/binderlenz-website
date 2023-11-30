@@ -7,7 +7,7 @@ featured_image: "/images/kuehlschiff.jpg"
 {{< figure src="/images/stutzerl-crop.jpg" >}}
 
 's **Stutzerl** vom Binder Lenz: Damit können gleich mehrere Sachen gemeint sein - und genauso vielschichtig ist auch der Kaffee dahinter. Einerseits ist das **Stutzerl** das Gewehr, das der Binder Lenz als passionierter Jäger alle Daam lang über seine Schulter geschwungen hat. Unzählige Krickerl und Grandl zeugen von erfolgreichen Jagdzügen durch sein Revier. Wir haben den Schuss gehört und bieten mit unserem **Stutzerl** einen Espresso an, der Dich morgens sanft weckt, der aber auch bis in den späten Nachmittag Genuss erlaubt, der Dir beim Schlafengehen nicht zum Verhängnis wird.
-Außerdem war **Stutzerl** der Kosename für die Liebste vom Binder Lenz. Sicher mit einem liebvollen Augenzwinkern, denn **Stutzerl** sagte man eigentlich zu jungen Mädchen, die etwas zu kurz geraten sind. Mit 100% der qualitativ hochwertigeren Sorte Arabica könnte man behaupten, dass unser Espresso koffeeinmäßig auch etwas kurz geraten ist. Doch genau das macht ihn so nussig, schokoladig, gschmeidig - und zu unserem persönlichen Favoriten.
+Außerdem war **Stutzerl** der Kosename für die Liebste vom Binder Lenz. Sicher mit einem liebevollen Augenzwinkern, denn **Stutzerl** sagte man eigentlich zu jungen Mädchen, die etwas zu kurz geraten sind. Mit 100% der qualitativ hochwertigeren Sorte Arabica könnte man behaupten, dass unser Espresso koffeeinmäßig auch etwas kurz geraten ist. Doch genau das macht ihn so nussig, schokoladig, gschmeidig - und zu unserem persönlichen Favoriten.
 
 ---
 
